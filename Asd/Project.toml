@@ -1,0 +1,10 @@
+name = "Asd"
+uuid = "996384a6-824a-403d-aca1-5ee5da803b10"
+version = "0.1.0"
+authors = ["vyudu <vincent.duyuan@gmail.com>"]
+
+[deps]
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+
+[compat]
+Revise = "3.13.2"
